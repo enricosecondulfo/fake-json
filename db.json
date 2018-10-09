@@ -1,12 +1,1 @@
-{
-  "registration": {
-    "users": [
-     {
-       "name": "Enrico",
-       "surname": "Secondulfo",
-       "email": "enrico.secondulfo@fides.it",
-       "role": "redatore"
-     }
-   ]
- }
-}
+{}
